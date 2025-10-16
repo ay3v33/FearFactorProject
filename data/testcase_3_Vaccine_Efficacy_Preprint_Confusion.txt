@@ -1,0 +1,4 @@
+{
+  "title": "Vaccine Efficacy Preprint Confusion",
+  "text": "A preprint released yesterday reports that in a cohort of 412 patients, no statistically significant reduction in hospitalization was observed among those vaccinated vs. unvaccinated. 'Our data do not show a meaningful decrease,' the lead author wrote. The paper has been widely shared on forums and used to argue that vaccines are 'ineffective.' Several epidemiologists cautioned that the paper used convenience sampling and lacked control for confounders like age and comorbidities. 'Non-significant does not mean no effect,' said Dr. Lila Chang. Social posts are already amplifying the headline without context; hospital administrators urged caution and pointed to larger randomized trials with different outcomes."
+}

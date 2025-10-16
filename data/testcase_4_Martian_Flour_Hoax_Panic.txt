@@ -1,0 +1,4 @@
+{
+  "title": "Martian Flour Hoax Panic",
+  "text": "This satirical column from the humor site The Daily Flap joked that 'Martians have hoarded all of America's flour' leading to a declared 'Pancake Day' by the government. The piece included absurd quotes and a banner reading 'satire.' However a wave of screenshots stripped of the website header began circulating on social apps with captions like 'This is happening—stock up now.' Local grocery stores saw a short-lived surge in flour purchases. The satirical author deplored the misinterpretation: 'We write absurdities so people can laugh at themselves, not panic-buy.'"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Protest Conflicting Reports",
+  "text": "English-language local outlets called the demonstration 'large and peaceful.' Meanwhile, Spanish-language community channels circulated videos showing protesters running and claiming that police used tear gas. One video description (now redacted) included the phrase 'se están metiendo balas de goma' but platform moderation removed the clip citing graphic content. Eyewitnesses gave contradictory statements. 'They started pushing us,' said one Spanish speaker. 'We were chanting for housing,' said an English-language blogger. The mixed narratives and partial removals present a challenge for parsers trying to measure fear versus distrust in authorities."
+}

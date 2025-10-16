@@ -1,0 +1,4 @@
+{
+  "title": "Oakridge Water Advisory",
+  "text": "Heads up: water plant near Oakridge got hit—boil order maybe? Stay tuned. #Oakridge #stayalert"
+}

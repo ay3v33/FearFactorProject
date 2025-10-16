@@ -1,0 +1,4 @@
+{
+  "title": "Emergency Food Assistance Fund",
+  "text": "County Executive Lara Finch announced a $1.2M Emergency Food Assistance Fund to support households affected by recent supply-chain issues. Applications open Monday at 9 AM. 'We want to ensure no one goes hungry,' Finch said. The program will distribute vouchers to qualifying families starting June 1."
+}

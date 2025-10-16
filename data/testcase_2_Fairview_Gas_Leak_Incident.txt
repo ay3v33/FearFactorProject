@@ -1,0 +1,4 @@
+{
+  "title": "Fairview Gas Leak Incident",
+  "text": "At approximately 11:30 PM last night, dozens of Fairview residents posted warnings about a 'gas leak' in several neighborhood WhatsApp groups. Social media clips showed people opening windows and calling family. The city’s utility crew arrived at 1:00 AM and performed a full sweep of the area. 'We found no evidence of a gas leak,' said Utilities Director Mark Pena. Still, many residents remain concerned after videos circulated that appeared to show emergency crews gathering outside a home. Investigators are examining whether a faulty furnace or a prank caused the smell. The mayor reminded citizens not to share unverified reports and to call 911 for emergencies. The incident highlights how quickly anxiety can spread through private messaging platforms."
+}

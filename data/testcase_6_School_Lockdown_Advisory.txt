@@ -1,0 +1,4 @@
+{
+  "title": "School Lockdown Advisory",
+  "text": "At 09:15 this morning, school was placed on brief precautionary lockdown after an unverified threat was posted to a third-party forum. No weapon was found and students have been released. We continue to investigate."
+}
