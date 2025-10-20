@@ -1,4 +1,0 @@
-{
-  "title": "Device Token Leak Advisory",
-  "text": "Research notes: unauthenticated endpoint at /mgmt/api allowed retrieval of device tokens. Example (redacted): `curl -X GET 'https://host/mgmt/api/token?device=...'` [REDACTED: full token leak removed]. Vendor has been notified and issued a patch. Recommended mitigations: MFA for vendor accounts, segmented management network, rotate credentials. Post contains both technical explanation and a partial proof-of-concept; proof lines were intentionally truncated to prevent misuse."
-}

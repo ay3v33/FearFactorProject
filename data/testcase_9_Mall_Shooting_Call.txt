@@ -1,4 +1,0 @@
-{
-  "title": "Mall Shooting Call",
-  "text": "Help, shots fired at the mall— Are you safe? Are you with the caller? No— we're behind the food court— people running— there's, I think, blood— Stay low, do not approach— They— they're coming inside— [connection lost]"
-}

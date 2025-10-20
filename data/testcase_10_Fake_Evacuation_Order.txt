@@ -1,4 +1,0 @@
-{
-  "title": "Fake Evacuation Order",
-  "text": "A 45-second clip purporting to be an official city emergency broadcast ordering immediate evacuation circulated across platforms last night. The clip used the city seal and a voice that many residents said sounded like the mayor. Digital forensics teams at two universities analyzed the file: one lab reported audio splicing and pixel artifacts consistent with deepfake overlays; another lab said 'the watermarking suggests a real capture.' The mayor's office denied issuing any order and requested takedown. 'This appears designed to elicit panic,' said Dr. Kim Park, an expert in synthetic media. However, a local official told reporters, 'We had multiple calls saying the message was real and people were leaving their homes.'"
-}

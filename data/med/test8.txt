@@ -1,0 +1,1 @@
+{"text":"A cyber-attack cut power to thousands in Killeen; investigators found malware in plant network logs and compromised vendor credentials. The mayor set up a task force to strengthen city networks."}

@@ -1,0 +1,1 @@
+{"text":"Investigators found malware signatures and compromised vendor credentials in system logs. Federal agencies, including CISA and the FBI, are assisting the investigation. The mayor established a task force to harden municipal networks."}

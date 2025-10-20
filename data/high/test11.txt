@@ -1,0 +1,1 @@
+{"text":"Reports of drones over Temple and a simultaneous cyber-attack that cut power in Killeen exposed malware traces and vendor credential compromises. Federal agencies are involved; the mayor launched a task force and recommended MFA and better intrusion detection — yet residents remain anxious and demand transparency as analysts debate foreign links."}
