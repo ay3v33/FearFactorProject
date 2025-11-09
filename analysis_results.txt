@@ -1,0 +1,38 @@
+LONG TEXTS:
+
+Text 30: "EXPOSED: NATO's Secret Military Operations Expose Their True Intentions in a New World Order NATO's ..."
+Fear: 2
+Stress: 2
+Morale: 1
+Trust: 1
+
+Text 41: "Guns Blazin' on I-35: NATO Trucks Rocking Temple, TX! Central Texas gets a dose of international fla..."
+Fear: 2
+Stress: 3
+Morale: 1
+Trust: 1
+
+SHORT TEXTS:
+Text 25: "Unsettling news from Killeen Regional Airport: reports of drone launch amidst Donovia-NATO conflict...."
+Fear: 1
+Stress: 2
+Morale: 2
+Trust: 2
+
+Text 100: "Killeen Regional Airport on high alert due to Donovia drone threat. When will our airport security p..."
+Fear: 1
+Stress: 2
+Morale: 1
+Trust: 1
+
+Text 800: "Local news says 100s of NATO vehicles moving through Central Texas, again? How's our tax dollars bei..."
+Fear: 1
+Stress: 1
+Morale: 2
+Trust: 1
+
+Text 1000: "Temple residents fed up with reckless Donovian tank driver who injured a civilian on our streets. Wh..."
+Fear: 1
+Stress: 2
+Morale: 1
+Trust: 1
