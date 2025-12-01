@@ -7,9 +7,7 @@ The USC approach is to use large-scale multiagent systems (thousands of agents) 
 
 ## Specific Task:
 
-A natural language parser is needed to assess short documents for their impact on a reader regarding fear, stress, morale, and trust in authorities. For example, a document (news report or social media post) stating that an invasion or a flood is imminent might induce fear, or that there is a food shortage might lower morale.
-
-Perfect understanding is not required, but rather a general sense. It would be sufficient to produce a value for each document/post in the range [-1.0 +1.0] for each of the factors fear, stress, morale, and trust.
+A natural language parser is needed to assess short documents for their impact on a reader regarding fear, stress, morale, and trust in authorities. For example, a document (news report or social media post) stating that an invasion or a flood is imminent might induce fear, or that there is a food shortage might lower morale. It would be sufficient to produce a value for each document/post in the range [-1.0 +1.0] for each of the factors fear, stress, morale, and trust.
 
 
 
