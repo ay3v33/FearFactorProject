@@ -9,7 +9,6 @@ venv/
 # Large data and results
 *.jsonl
 analysis_results.txt
-data/
 
 # HuggingFace/Transformers cache
 .cache/
