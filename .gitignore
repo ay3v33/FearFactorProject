@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.env/
+
+# Large data and results
+*.jsonl
+analysis_results.txt
+data/
+
+# HuggingFace/Transformers cache
+.cache/
