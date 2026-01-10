@@ -21,10 +21,21 @@ analyzer = EmotionAnalyzer()
 ```
 # Example usage
 
-```
-text = "The sudden news of the layoffs spread quickly, leaving everyone feeling uncertain and anxious about the future."
+When you run the emotion analyzer it will ask you for text.
+When you run the csv analyzer it will ask you for the name of the csv file, then for the column name of the text you want to analyze
 
-results = analyzer.predict_levels(text)
-print(results)
-# Output Example: {'Fear Level': 2, 'Stress Level': 3, 'Morale Level': 1, 'Trust Level': 1}
+```
+Enter the path to your CSV file: data/MILDEC_short_out.csv
+Loaded 1713 rows.
+Columns: ['postId', '_type', 'requestForContentId', 'agentId', 'language', 'text', 'hashtags', 'image', 'tick', 'timestamp']
+Enter the column name containing the text to analyze: text
+Analyzing text and updating columns... (this may take a moment)
+------------------------------
+Success! Analyzed file saved as: data/MILDEC_short_out_analyzed.csv
+   Fear Level  Stress Level  Morale Level  Trust Level
+0           2             3             1            1
+1           3             3             1            1
+2           3             3             1            1
+3           3             3             1            1
+4           3             3             1            1
 ```
