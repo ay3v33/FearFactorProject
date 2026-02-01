@@ -15,6 +15,7 @@ I have recently finished a more resource heavy method which is very accurate tha
 
 ## V2 NLU Usage
 NOTE: This version uses a large model and is recommended to be run on a GPU
+
 Download the nlu.py file
 
 run: python nlu.py pathToCSV --ouput results.csv
