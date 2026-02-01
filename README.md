@@ -9,9 +9,18 @@ The USC approach is to use large-scale multiagent systems (thousands of agents) 
 A natural language parser is needed to assess short documents for their impact on a reader regarding fear, stress, morale, and trust in authorities. For example, a document (news report or social media post) stating that an invasion or a flood is imminent might induce fear, or that there is a food shortage might lower morale. It would be sufficient to produce a value for each document/post in the range from 1 - 3 for each of the factors fear, stress, morale, and trust.
 
 ## My Progress
-Currently, I have some python notebook (ipynb) files in the code folder, each representing a different method of trying to tackle this problem. I have created a [stable-v1](./stable-v1) folder which will include what I find to be the best method I have currently working and instructions on how to use it.
+Currently, I have some python notebook (ipynb) files in the code folder, each representing a different method of trying to tackle this problem. I have created a [stable-v1](./stable-v1) folder which will which includes a working version of my initial attempts.
 
-## Example Inputs and Outputs
+I have recently finished a more resource heavy method which is very accurate that I will upload instructions for soon
+
+## V2 NLU Usage
+NOTE: This version uses a large model and is recommended to be run on a GPU
+Download the nlu.py file
+
+run: python nlu.py pathToCSV --ouput results.csv
+
+
+## Example Inputs and Outputs for V1
 
 ### community_safety_initiative
 
