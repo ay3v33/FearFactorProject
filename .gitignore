@@ -10,5 +10,7 @@ venv/
 *.jsonl
 analysis_results.txt
 
+
 # HuggingFace/Transformers cache
 .cache/
+code/bartLargeMnli/
